@@ -1,8 +1,8 @@
 "use strict";
 
-// 固定の休止期間 開始日12月30日
+// 固定の休止期間 開始日12月29日
 var cblankStartMM = 12;
-var cblankStartDD = 30;
+var cblankStartDD = 29;
 
 // 固定の休止期間 終了日1月3日
 var cblankEndMM = 1;
